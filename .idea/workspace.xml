@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e00106a5-57e9-4c1c-a816-83b35254c0f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Filter Implementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deteccao de Bordas/Deteccao_Sobel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deteccao de Bordas/Valve_original.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deteccao de Formas e Texturas/Formas_texturas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deteccao de Formas e Texturas/Sudoku_original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Filtros Morfologicos/Filtro_morfologico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Filtros Morfologicos/Fotografo_original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Realce e Ajuste de Intensidade/Brilho_contraste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Realce e Ajuste de Intensidade/Gatos_filhotes_original.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reducao de Ruido e Suavizacao/Pato_original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reducao de Ruido e Suavizacao/Ruido_suavizacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transformacoes Geometricas/Cubo_original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transformacoes Geometricas/Redimensionamento_distorcao.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vVhPDl7bknYGN5kgSvnONNgvtv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Brilho_contraste.executor": "Run",
+    "Python.Comandos_Basicos.executor": "Run",
+    "Python.Deteccao_Sobel.executor": "Run",
+    "Python.Equalizacao_histograma.executor": "Run",
+    "Python.Filtro_morfológico.executor": "Run",
+    "Python.Formas_texturas.executor": "Run",
+    "Python.Mais_brilho.executor": "Run",
+    "Python.Mais_contraste.executor": "Run",
+    "Python.Redimensionamento_distorcao.executor": "Run",
+    "Python.Ruido_suavização.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Pycharm Projects\Computer_Graphics\Filter Implementation\Filtros Morfológicos" />
+      <recent name="C:\Pycharm Projects\Computer_Graphics\Filter Implementation\Transformações Geométricas" />
+      <recent name="C:\Pycharm Projects\Computer_Graphics\Filter Implementation\Detecção de Formas e Texturas" />
+      <recent name="C:\Pycharm Projects\Computer_Graphics\Filter Implementation\Detecção de Bordas" />
+      <recent name="C:\Pycharm Projects\Computer_Graphics\Filter Implementation\Redução de Ruído e Suavizacao" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e00106a5-57e9-4c1c-a816-83b35254c0f6" name="Changes" comment="" />
+      <created>1744236123065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744236123065</updated>
+    </task>
+    <servers />
+  </component>
+</project>
